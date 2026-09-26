@@ -2,7 +2,7 @@
 
 # Muhammad Usama
 
-### Founder & CEO | Software Partner for Startups, SMEs & Enterprises
+### Founder & CEO at Xavinex || Software Partner for Startups, SMEs & Enterprises
 
 **AI Solutions · SaaS & MVP Development · Product Engineering · Automation**
 

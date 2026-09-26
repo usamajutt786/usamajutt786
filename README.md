@@ -1,72 +1,68 @@
-<h1 align="center">Hi 👋, I'm Usama Jutt</h1>
-<h3 align="center">A passionate flutter developer</h3>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/usama-jutt-45389b234" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usama-jutt-45389b234" height="30" width="40" />
+# Muhammad Usama
+
+### Founder & CEO | Software Partner for Startups, SMEs & Enterprises
+
+**AI Solutions · SaaS & MVP Development · Product Engineering · Automation**
+
+<p>
+  Turning business ideas into practical, scalable digital products.
+</p>
+
+<p>
+  <a href="https://www.xavinex.com/">xavinex.com</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/usama-jutt-45389b234">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="22" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby on rails" width="40" height="40"/>
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=17&pause=2200&color=344054&center=true&vCenter=true&width=680&lines=Building+AI-powered+products+for+real+business+needs;Helping+startups+move+from+idea+to+MVP;Creating+software+that+supports+business+growth" alt="Professional animated text"/>
+
+</div>
+
+---
+
+## About
+
+My work is guided by a simple belief: the right technology can unlock growth and improve how people work.
+
+As a founder and technology leader, I help startups, SMEs, and enterprises shape ideas into useful digital products. My work spans product discovery, MVP development, AI-powered software, business automation, and scalable web and mobile applications.
+
+I have contributed to products and projects across health-tech, education, creative tools, and AI-powered SaaS. Each project has strengthened my focus on understanding the business need, choosing the right approach, and delivering software that can grow with its users.
+
+I value clear communication, trusted partnerships, and technology that solves real problems.
+
+## Areas of Work
+
+- SaaS platforms and startup MVPs
+- AI applications, AI agents, and LLM integrations
+- Business process automation
+- Web and mobile product development
+- Product strategy, prototyping, and engineering
+- APIs and third-party integrations
+
+## Technology
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,nodejs,python,postgres,supabase,docker,git,figma&perline=11" alt="Flutter, Dart, React, Next.js, Node.js, Python, PostgreSQL, Supabase, Docker, Git, and Figma"/>
 </p>
 
-<h3 align="left">Ruby on Rails Bulk Emailing:</h3>
-<p align="left">
-  <!-- Your Ruby on Rails bulk emailing code goes here -->
-</p>
+## AI & Automation
+
+I’m interested in applying AI to practical business workflows, including language-model integrations, retrieval-augmented generation (RAG), AI agents, and automation. The aim is to help teams handle repetitive tasks, work with information more effectively, and improve customer experiences.
+
+## Connect
+
+Have an idea for a digital product, SaaS platform, or AI solution? I’m open to thoughtful conversations and collaborations.
+
+<div align="center">
+
+<a href="https://www.xavinex.com/">Xavinex</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://linkedin.com/in/usama-jutt-45389b234">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" />
+</a>
+
+</div>
